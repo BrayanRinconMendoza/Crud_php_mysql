@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"5.0.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"crud_php_mysql"},
+{"type":"table","name":"task","database":"crud_php_mysql","data":
+[
+{"id":"1","title":"Do a website","description":"Code with wordpress","created_at":"2020-02-09 15:52:17"},
+{"id":"3","title":"Do a picture","description":"Take a photo with the camera","created_at":"2020-02-09 15:58:05"},
+{"id":"4","title":"Read two books","description":"Read two books for tomorrow","created_at":"2020-02-09 16:24:26"},
+{"id":"5","title":"Buy a pants","description":"I have to buy a black jeans","created_at":"2020-02-09 19:52:05"}
+]
+}
+]
